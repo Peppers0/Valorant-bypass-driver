@@ -9,3 +9,6 @@ No other requirement
 Ud for the moment (27/01/2023)!
 Have rewrite shell code for undetected.
 Add in your p2c, have fun.
+
+
+28/01/2023 (Have update shellcode), add 22H2 support for windows 11
